@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GB\\Angular\\FESCFuenteSoda\\Backend\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AFDE6F2-60E2-4873-8543-39B4EF7C9D6B}|Backend\\Backend.csproj|d:\\gb\\angular\\fescfuentesoda\\backend\\backend\\backend\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AFDE6F2-60E2-4873-8543-39B4EF7C9D6B}|Backend\\Backend.csproj|solutionrelative:backend\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AFDE6F2-60E2-4873-8543-39B4EF7C9D6B}|Backend\\Backend.csproj|d:\\gb\\angular\\fescfuentesoda\\backend\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AFDE6F2-60E2-4873-8543-39B4EF7C9D6B}|Backend\\Backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AFDE6F2-60E2-4873-8543-39B4EF7C9D6B}|Backend\\Backend.csproj|d:\\gb\\angular\\fescfuentesoda\\backend\\backend\\backend\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AFDE6F2-60E2-4873-8543-39B4EF7C9D6B}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AFDE6F2-60E2-4873-8543-39B4EF7C9D6B}|Backend\\Backend.csproj|d:\\gb\\angular\\fescfuentesoda\\backend\\backend\\backend\\dtos\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AFDE6F2-60E2-4873-8543-39B4EF7C9D6B}|Backend\\Backend.csproj|solutionrelative:backend\\dtos\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AFDE6F2-60E2-4873-8543-39B4EF7C9D6B}|Backend\\Backend.csproj|d:\\gb\\angular\\fescfuentesoda\\backend\\backend\\backend\\models.scaffold\\fescfuentesodacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AFDE6F2-60E2-4873-8543-39B4EF7C9D6B}|Backend\\Backend.csproj|solutionrelative:backend\\models.scaffold\\fescfuentesodacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AFDE6F2-60E2-4873-8543-39B4EF7C9D6B}|Backend\\Backend.csproj|d:\\gb\\angular\\fescfuentesoda\\backend\\backend\\backend\\models\\mysqldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AFDE6F2-60E2-4873-8543-39B4EF7C9D6B}|Backend\\Backend.csproj|solutionrelative:backend\\models\\mysqldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\GB\\Angular\\FESCFuenteSoda\\Backend\\Backend\\Backend\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\GB\\Angular\\FESCFuenteSoda\\Backend\\Backend\\Backend\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Backend\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAlwCkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T12:01:47.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductCreateDTO.cs",
+              "DocumentMoniker": "D:\\GB\\Angular\\FESCFuenteSoda\\Backend\\Backend\\Backend\\DTOs\\ProductCreateDTO.cs",
+              "RelativeDocumentMoniker": "Backend\\DTOs\\ProductCreateDTO.cs",
+              "ToolTip": "D:\\GB\\Angular\\FESCFuenteSoda\\Backend\\Backend\\Backend\\DTOs\\ProductCreateDTO.cs",
+              "RelativeToolTip": "Backend\\DTOs\\ProductCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T10:12:04.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\GB\\Angular\\FESCFuenteSoda\\Backend\\Backend\\Backend\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Backend\\Repositories\\ProductRepository.cs",
+              "ToolTip": "D:\\GB\\Angular\\FESCFuenteSoda\\Backend\\Backend\\Backend\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Backend\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAiwDcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T09:30:12.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MySQLDbContext.cs",
+              "DocumentMoniker": "D:\\GB\\Angular\\FESCFuenteSoda\\Backend\\Backend\\Backend\\Models\\MySQLDbContext.cs",
+              "RelativeDocumentMoniker": "Backend\\Models\\MySQLDbContext.cs",
+              "ToolTip": "D:\\GB\\Angular\\FESCFuenteSoda\\Backend\\Backend\\Backend\\Models\\MySQLDbContext.cs",
+              "RelativeToolTip": "Backend\\Models\\MySQLDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T09:14:58.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FescFuentesodaContext.cs",
+              "DocumentMoniker": "D:\\GB\\Angular\\FESCFuenteSoda\\Backend\\Backend\\Backend\\Models.Scaffold\\FescFuentesodaContext.cs",
+              "RelativeDocumentMoniker": "Backend\\Models.Scaffold\\FescFuentesodaContext.cs",
+              "ToolTip": "D:\\GB\\Angular\\FESCFuenteSoda\\Backend\\Backend\\Backend\\Models.Scaffold\\FescFuentesodaContext.cs",
+              "RelativeToolTip": "Backend\\Models.Scaffold\\FescFuentesodaContext.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA9wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T09:10:50.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GB\\Angular\\FESCFuenteSoda\\Backend\\Backend\\Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Backend\\Program.cs",
+              "ToolTip": "D:\\GB\\Angular\\FESCFuenteSoda\\Backend\\Backend\\Backend\\Program.cs",
+              "RelativeToolTip": "Backend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T10:05:41.63Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
